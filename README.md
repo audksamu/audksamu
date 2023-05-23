@@ -1,4 +1,4 @@
 # Audksamu
-[MYBanner](./assets/banner.png)(linkedin.com/in/aud-kristin-s-996269192)
+[MYBanner](./assets/Banner.png)(linkedin.com/in/aud-kristin-s-996269192)
 
 
