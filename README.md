@@ -1,5 +1,5 @@
 # Audksamu
-[![MYBanner](./assets/Banner.png)](https://linkedin.com/in/aud-kristin-s-996269192)
+[![MYBanner](./assets/Banner.png)]((https://6478efe4e3d86807b4a42021--classy-pudding-1794b1.netlify.app/))
 
 Hi there ✋!
 
